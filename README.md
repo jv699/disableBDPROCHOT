@@ -1,5 +1,5 @@
 # disableBDPROCHOT
-Steps and script for disabling BD PROCHOT in Linux. This is essentially a script based on yyearth's [guide](https://github.com/yyearth/turnoff-BD-PROCHOT/blob/master/readme.md) with steps to get the script to run on boot.
+Steps and script for disabling BD PROCHOT in Linux. This is essentially a script based on [yyearth's guide](https://github.com/yyearth/turnoff-BD-PROCHOT/blob/master/readme.md) with steps to get the script to run on boot.
 
 
 ## What is BD PROCHOT?
