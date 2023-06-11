@@ -43,7 +43,7 @@ Next, mark `disableprochot.sh` as executable.
 chmod +x disableprochot.sh
 ```
 
-Finally, execute`disableprochot.sh`.
+Finally, execute `disableprochot.sh`.
 ```shell
 ./disableprochot.sh
 ```
