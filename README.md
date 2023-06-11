@@ -6,6 +6,6 @@ BD PROCHOT (bi-directional hot) allows for senors in your computer to tell the C
 
 For me, BD PROCHOT triggered on boot when I replaced one of the batteries in my Thinkpad T470s with an aftermarket battery. This made the computer unusable when on battery power. 
 
-Please keep in mind BD PROCHOT <b><i>is</i></b> a safety measure designed to prevent damage to your computer. Modern computers are typically very safe from this kind of overheating, I take no responsibility for possible damage caused to your computer. I reccomend installing a monitoring tool to keep an eye on your thermals. I use the [Vitals](https://extensions.gnome.org/extension/1460/vitals/) GNOME Extension, and have had no issues with my thermals.
+Please keep in mind BD PROCHOT <b><i>is</i></b> a safety measure designed to prevent damage to your computer. While modern computers are typically very safe from this kind of overheating, I take no responsibility for possible damage caused to your computer. I reccomend installing a monitoring tool to keep an eye on your thermals. I use the [Vitals](https://extensions.gnome.org/extension/1460/vitals/) GNOME Extension, and have had no issues with my thermals.
 
 ## Steps
