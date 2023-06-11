@@ -1,5 +1,6 @@
 # disableBDPROCHOT
-Steps and script for disabling BDPROCHOT in Linux.
+Steps and script for disabling BD PROCHOT in Linux. This is essentially a script based on yyearth's [guide](https://github.com/yyearth/turnoff-BD-PROCHOT/blob/master/readme.md) with steps to get the script to run on boot.
+
 
 ## What is BD PROCHOT?
 BD PROCHOT (bi-directional hot) allows for senors in your computer to tell the CPU to throttle to the slowest possible speed. Ususally this happens when some component is overheating. However, it can also occur when a thermal sensor is broken on your motherboard or some other component is malfunctioning.
@@ -48,7 +49,7 @@ Finally, execute `disableprochot.sh`.
 ./disableprochot.sh
 ```
 
-And that's it! Essentially what happens is the `0x1FC` register is read and decremented by one as explained [here](https://github.com/yyearth/turnoff-BD-PROCHOT/blob/master/readme.md).
+And that's it! Essentially what happens is the `0x1FC` register is read and decremented by one. 
 
 Keep in mind this script needs re-ran every boot. You can also set the script to run on start-up. There are several ways to do this, but I've listed the steps I used personally below.
 
