@@ -62,7 +62,7 @@ cd /etc/rc.d
 
 Once there, open `rc.local`.
 ```shell
-vi rc.local
+sudo vim rc.local
 ```
 
 Add this code, replacing the second line with wherever your `disableprochot.sh` script is located. By default this is `~/disableBDProchot/disableprochot.sh`.
@@ -74,7 +74,7 @@ exit 0
 
 Make sure that `rc.local` is executable.
 ```shell
-chmod +x rc.local
+sudo chmod +x rc.local
 ```
 
 That's it! Now BD PROCHOT will be disabled on every boot.
