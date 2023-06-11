@@ -1,5 +1,5 @@
 # disableBDPROCHOT
-Steps and script for disabling BDPROCHOT under Linux
+Steps and script for disabling BDPROCHOT in Linux.
 
 ## What is BD PROCHOT?
 BD PROCHOT (bi-directional hot) allows for senors in your computer to tell the CPU to throttle to the slowest possible speed. Ususally this happens when some component is overheating. However, it can also occur when a thermal sensor is broken on your motherboard or some other component is malfunctioning.
