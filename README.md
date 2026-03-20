@@ -14,7 +14,7 @@ You need to have [msr tools](https://github.com/intel/msr-tools) installed. This
 
 > NOTE: msr tools is no longer maintained. This does not prevent it from working, but it is worth noting.
 
-You can check if you have msr tools installed by running the `rdmsr` command. If it installed, you hsould see somehting like this.
+You can check if you have msr tools installed by running the `rdmsr` command. If it installed, you should see somehting like this.
 
 ```shell
 rdmsr
